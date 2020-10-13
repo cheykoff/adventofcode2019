@@ -4,8 +4,8 @@ Calculate the fuel based on the masses of modules
 
 ## Input
 
-txt file with masses (whole numbers)
-formula: fuel = sum over all modules (round_down (mass of the module / 3) - 2)
+- txt file with masses (whole numbers)
+- formula: fuel = sum over all modules (round_down (mass of the module / 3) - 2)
 
 ## Output
 
